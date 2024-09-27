@@ -1,0 +1,11 @@
+# Dummy
+
+Messages:
+  MessagesForBlocks:
+    isShowing: true
+    Message1: You marked
+    Message2: blocks
+  MessagesForSelect:
+    isShowing: true
+    Message1: Left Click to Select Positions
+    Message2: Selected Position 1

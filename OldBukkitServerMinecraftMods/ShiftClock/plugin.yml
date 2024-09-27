@@ -1,0 +1,10 @@
+name: ShiftClock
+main: com.Aldimensch.ShiftClock.ShiftClock
+version: 1.0
+description: >
+             Food you dont need it
+commands:
+  clockin:
+    description: Toggles game mode to creative.
+  clockout:
+    description: Toggles game mode to survival.

@@ -1,0 +1,9 @@
+name: CountBlocks
+main: me.Aldimensch.CountBlocks.CountBlocks
+version: 1.0
+description: >
+             Count Blocks in Area.
+commands:
+  cb:
+    description: Select Points.
+
